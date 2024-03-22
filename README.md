@@ -41,8 +41,7 @@ The game is typically played between two people, but here, you'll be playing aga
 - JavaScript: Programming language for implementing game logic and interactive.
 
 ## Screenshots
-
-![Gameplay Screenshot](/screenshots/gameplay.png)
+![game](https://github.com/Shtamim/Rock-Paper-Scissors/assets/134215366/f368a8d6-85d2-45b9-8a7c-d50dca5055f8)
 
 ## Download
 
