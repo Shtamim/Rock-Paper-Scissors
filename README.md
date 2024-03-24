@@ -14,9 +14,10 @@ This game was created in just one day, showcasing the simplicity and efficiency 
 In Rock-Paper-Scissors, each player simultaneously forms one of three shapes with an outstretched hand:
 - Rock: represented by a fist
 - Paper: represented by an open hand
-- Scissors: represented by a fist with the index and middle fingers extended, forming a V
+- Scissors: represented by a fist    with the index and middle fingers
+ extended, forming a V
 
-The rules are simple:
+  The rules are simple:
 - Rock crushes Scissors
 - Scissors cuts Paper
 - Paper covers Rock
